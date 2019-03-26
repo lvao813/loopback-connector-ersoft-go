@@ -1,0 +1,2 @@
+# loopback-connector-ersoft-go
+此connector解析器是专门为loopback3连接后台restful接口并将其自动挂载到loopback3自动生成的restful接口上，这只是一个基础框架，支持按照自己的业务改动
