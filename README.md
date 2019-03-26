@@ -153,3 +153,6 @@ DELETE where={"id":4}
 # 改造
 
 改造参考文档：https://loopback.io/doc/en/lb3/Building-a-connector.html#notes-for-creating-non-database-connectors
+
+# 测试
+此代码使用的数据源是官方示例的notes项目，可以支持两个项目互联
